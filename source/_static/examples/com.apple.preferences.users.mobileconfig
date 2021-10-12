@@ -5,20 +5,20 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>DisableUsingiCloudPassword</key>
-			<false/>
+			<key>command</key>
+                        <string>remove</string>
 			<key>PayloadDescription</key>
 			<string>User Preferences</string>
 			<key>PayloadDisplayName</key>
-			<string>User Preferences</string>
+			<string>Remove EAPSIM</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.preferences.users</string>
+			<string>com.apple.network.eapclient.eapsimaka.prefs</string>
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
-			<string>com.apple.preferences.users</string>
+			<string>com.apple.network.eapclient.eapsimaka.prefs</string>
 			<key>PayloadUUID</key>
-			<string></string>
+			<string>feda7ff5-73cf-4dea-9942-bc6236601885</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -28,7 +28,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Example: User Preferences</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.preferences.users.example</string>
+	<string>com.apple.network.eapclient.eapsimaka.prefs.example</string>
 	<key>PayloadOrganization</key>
 	<string>Example Organization</string>
 	<key>PayloadType</key>
